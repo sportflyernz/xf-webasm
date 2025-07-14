@@ -1,0 +1,6 @@
+[submodule "deps/xalan-c"]
+	path = deps/xalan-c
+	url = https://github.com/apache/xalan-c.git
+[submodule "deps/xerces-c"]
+	path = deps/xerces-c
+	url = https://github.com/apache/xerces-c.git
